@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
-const MONGODB_URI = 'mongodb+srv://abel:abel@cluster0.iqgx2js.mongodb.net/ppi?retryWrites=true&w=majority&appName=Cluster0';
+const MONGODB_URI = '';
 const app = express();
 const path = require('path');
 const port = 3000; // You can change this port number if needed
